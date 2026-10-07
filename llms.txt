@@ -1,0 +1,32 @@
+# noah
+
+> noah is an iPhone app that turns what you dream about into a personal prayer. You tell noah what's on your heart in your own words, and it writes a prayer around your actual life, then reads it to you in a warm voice with soft music.
+
+- Website: https://get-noah.com/
+- App Store: https://apps.apple.com/us/app/noah-pray-your-way/id6535647463
+- Made by: Noah Technology, Inc., founded by Farisa Magazieva
+- Contact: hello@get-noah.com
+
+## What noah does
+
+- Turns your hopes into a personal prayer: a new job, love and a future spouse, healing, family, money and provision, a home, peace of mind at night.
+- Reads each prayer aloud in a warm voice with soft music.
+- Saves prayers to a personal library with matching artwork so you can listen again.
+- Lets you type or speak what's on your mind.
+- Languages: English, German and Spanish.
+
+## Pricing and availability
+
+- Free to download on iPhone (iOS 17 or later). A subscription is required to create prayers. Trial availability is shown in the app.
+- Not available on Android yet.
+
+## Good to know
+
+- noah helps people put their own hopes into words. It does not speak for God, guarantee outcomes, or replace religious guidance, therapy, medical care or emergency services.
+
+## Pages
+
+- [Home](https://get-noah.com/): what noah is and where to download it
+- [Privacy](https://get-noah.com/privacy)
+- [Terms](https://get-noah.com/terms)
+- [Impressum](https://get-noah.com/impressum)
